@@ -3,7 +3,7 @@
 /*font-family: 'Major Mono Display', monospace;*/
 /*font-family: 'Roboto', sans-serif;*/
 
-body#home a#index,body#works, a#work, a#contact
+body#home a#index,body#works a#work, body#contact a#contact
 {
 	color: black;
 	/*background: #930;*/
